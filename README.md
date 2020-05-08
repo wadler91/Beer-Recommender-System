@@ -13,3 +13,8 @@ Beer Reviews EDA and Visualization:
   
 Beer Recommendation System:
   Collaboritive filtering based recommender system with Surprise library
+  
+Beer Recommender System Slides:
+  Slide deck overview of the project
+  
+
