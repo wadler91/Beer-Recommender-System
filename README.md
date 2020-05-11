@@ -17,4 +17,6 @@ Beer Recommendation System:
 Beer Recommender System Slides:
   Slide deck overview of the project
   
+Project Report:
+  Full written overview of the project
 
